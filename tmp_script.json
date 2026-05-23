@@ -1,0 +1,55 @@
+{
+  "title": "今日AI热点",
+  "slides": [
+    {
+      "narration": "欢迎收看今日六十秒热点速览：五月廿日以来新加坡政企先抛重磅合作同一天监管再给代理式规则升级，Anthropic被美国CNBC向知情人士核验正与微软围绕第二代Maia推理芯片磋商但未签约，另一边OpenAI五月廿日博客披露内部推理模型在埃尔德什平面离散几何相关问题上的证明稿正由数学家团队逐项核查。", 
+      "headline": "新加坡双线、Anthropic磋商Maia与OpenAI离散几何证明核查",
+      "bullets": [
+        {"title": "新加坡", "desc": "官方OpenAI注资承诺与同日IMDA新版治理指南"},
+        {"title": "Anthropic微软", "desc": "美国CNBC称早期商谈Maia200助力Claude"},
+        {"title": "OpenAI", "desc": "五月廿日英文博客写明埃尔德什相关证明稿交由数学家逐项核查"}
+      ],
+      "image_prompt": "English, vertical 9:16 futuristic news studio abstract gradient teal and magenta, holographic neural mesh, glossy glass panels, cinematic lighting, no text, no letters, ultra clean"
+    },
+    {
+      "narration": "五月二十日在新加坡亚洲科技峰会上新加坡数字发展与信息部与OpenAI签署谅解备忘录共推OpenAI for Singapore计划OpenAI公开承诺为该计划投入逾三亿新元并在美国以外开设第一座应用型人工智能实验室数年内扩招逾两百名本地工程岗位与此同时新加坡资讯通信媒体发展局正式发布更新后的模型人工智能代理式治理框架吸收亚马逊云服务星展银行谷歌赛富时等六十多机构建言并编入十余政企案例。", 
+      "headline": "新加坡同日宣布OpenAI超三亿新元合作与代理式AI治理更新",
+      "bullets": [
+        {"title": "数字发展与信息部", "desc": "与OpenAI签OpenAI for Singapore备忘录并公布实验室岗位蓝图"},
+        {"title": "超三亿新元", "desc": "OpenAI对新加坡人工智能生态的官方资本配套承诺"}, 
+        {"title": "资讯通信媒体发展局", "desc": "升级代理式治理框架引用六十余家机构建言加十个以上案例"}
+      ],
+      "image_prompt": "English, vertical 9:16 marina bay inspired skyline silhouette at dusk, emerald policy overlay lines, cyan data ribbons over bay water, solemn tech diplomacy mood, volumetric fog, no text, no logos"
+    },
+    {
+      "narration": "据美国消费者新闻与商业频道五月二十一日报道其记者向知情人士确认Anthropic正处在与微软早期磋商讨论是否租用配备第二代Maia人工智能推理芯片的云服务器来为Claude系列模型扩容但目前双方仍未签署板上协议微软高管四月曾告诉投资人Maia两百相较现有主力芯片带来逾三成代币每美元效率提升不过该加速器尚未向普通Azure租户全面铺开供应。", 
+      "headline": "CNBC称Anthropic与微软早期磋商租用Maia200支撑Claude",
+      "bullets": [
+        {"title": "CNBC五月廿一日稿", "desc": "称采访知情人士佐证仍在商谈阶段未敲定合同"}, 
+        {"title": "微软Maia 200", "desc": "定制第二代推理加速器成为此次谈判标的物"}, 
+        {"title": "Anthropic与高算价", "desc": "掌门人阿莫迪公开承认算力吃紧掣肘模型扩容"}
+      ],
+      "image_prompt": "English, vertical 9:16 macro futuristic AI accelerator wafer shards with copper traces cold blue coolant mist cinematic lab bokeh sterile high bandwidth vibe no text no typography"
+    },
+    {
+      "narration": "OpenAI五月廿日美国博客披露内部推理模型在平面单位距离这一埃尔德什时代离散几何主轴上交出数百页级推演诺加阿隆与蒂姆高尔斯等九位作者在arXiv伴读稿里复述关键结论并写明如何把原始模型草稿改写成可被同行逐项审计的人类友好阐释提醒自动化推演时代终审信任链依旧绕不开职业数学家复核。", 
+      "headline": "OpenAI称内部推理模型在单位距离相关问题获数学家伴读核验",
+      "bullets": [
+        {"title": "OpenAI五月廿日文", "desc": "以博客宣布离散几何突破性证明进入公开核验链路"}, 
+        {"title": "伴读数学家", "desc": "九位作者在arXiv短稿复述并拆解模型推导要点"}, 
+        {"title": "arXiv论文", "desc": "挂上伴读摘编稿方便全球同行下载复查细节"}
+      ],
+      "image_prompt": "English, vertical 9:16 swirling golden geometric graphs over deep chalkboard charcoal luminous nodes ethereal academic brilliance cinematic depthfield no readable equations no text overlays"
+    },
+    {
+      "narration": "总结今日脉络：同一天新加坡既要OpenAI真金白银落地也要把高风险代理部署写进可操作清单说明监管者和建设者必须同步踩油门Anthropic若在Maia议价里拿到代币效率甜头就能缓解公开承认的算力荒最后OpenAI把埃尔德什级难题搬进公众视野提醒我们模型不能只卷营销还要经得起定理级别的人类复审欢迎留言告诉我你最关心哪条线。", 
+      "headline": "监管与投资同步推理算力折价战数学信任链缺一不可",
+      "bullets": [
+        {"title": "政企监管", "desc": "资本承诺与新版代理指南同日释放信号"}, 
+        {"title": "推理硬件", "desc": "Claude若想扩写需在Maia200租赁条款里找到平衡"}, 
+        {"title": "证明协作", "desc": "长证明时代强调模型与人类数学家共舞而非替代"}
+      ],
+      "image_prompt": "English, vertical 9:16 cosmic sapphire violet particle ribbons spiraling minimalist geometry climax glow black void grandeur ultra sharp glare free no captions no typography"
+    }
+  ]
+}
