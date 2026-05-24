@@ -1,0 +1,80 @@
+{
+  "title": "Claude一月挖上万洞",
+  "keyword": "Claude",
+  "source": {
+    "title": "Project Glasswing: An initial update",
+    "url": "https://www.anthropic.com/research/glasswing-initial-update",
+    "site": "Anthropic"
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "headline": "Claude一月挖上万洞",
+      "subtitle": "找得快，补丁追得上吗？",
+      "bullets": [],
+      "narration": "核弹动静：Anthropic约五十家伙伴齐上阵，拿 Claude Mythos Preview，一个月内在全球最要紧的软件土里刨出一万多条高危或严重漏洞——说白了，以前是找不快，现在是补丁撵不上。",
+      "image_prompt": "English, vertical 9:16 cinematic hacker-themed abstract digital storm with soft blue-purple light shards, ominous calm atmosphere, shallow depth of field, no text, no logos"
+    },
+    {
+      "layout": "insight",
+      "headline": "Firefox这轮修炸了",
+      "bullets": [
+        {
+          "title": "五十家大牛一起下场",
+          "desc": "合作项目方规模贴在五十家附近，大家伙儿一块儿用 Mythos Preview 对准全球最关键的软件底子"
+        },
+        {
+          "title": "修洞量比旧版蹿十倍",
+          "desc": "这一轮 Mozilla 扛着 Mythos Preview 压 Firefox 150：挖出并合上二百七十一条洞，对照 Firefox 148 那条 Claude Opus 4.6 找窟窿的旧回合，本轮数量级翻到十倍还带零头"
+        }
+      ],
+      "narration": "重点咔一下——Mozilla 这轮用 Firefox 150 压着 Mythos Preview 实测：一口气挖出并合上二百七十一条洞。对照之前在 Firefox 148 里靠 Claude Opus 4.6 揪窟窿那一趟——数量级是直接翻十倍还多。说白了，它不是修修补补，是纯换档位。",
+      "image_prompt": "English, vertical 9:16 split-screen mood: browser window glitch vs security shield glow, teal and magenta rim light, futuristic but friendly, shallow DOF, no text, no logos"
+    },
+    {
+      "layout": "data",
+      "headline": "这数字光看就窒息",
+      "stat": "6202",
+      "bullets": [
+        {
+          "title": "开源里先炸出一锅",
+          "desc": "他们扫了一千多个开源项目，目前为止模型估算其中高危或严重的有六千二百零二条"
+        }
+      ],
+      "narration": "把计算器掏出来：他们把一千多个开源项目扫过一圈，模型眼下估算其中高危或严重的六千二百零二条；伙伴阵营凑齐，再摞出一万多条同样级别的。打个比方——洞像爆米花一样往外冒，人还在柜台排队取票呢。",
+      "image_prompt": "English, vertical 9:16 abstract towering data eruption over a faint wireframe city, volumetric teal light beams suggesting a staggering count without digits, cinematic fog depth, sterile cyber mood, absolutely no readable text or numerals on image, no logos"
+    },
+    {
+      "layout": "story",
+      "headline": "时间线其实也简单",
+      "bullets": [
+        {
+          "title": "上月才开跑的玻璃翼",
+          "desc": "开头交代很清楚：Glasswing 这计划上个月才官宣启动，专啃最关键的软件底子"
+        },
+        {
+          "title": "满一个月就堆上万条",
+          "desc": "跑满一个月后，伙伴们几乎家家都挖出几百条高危严重的，合在一起冲到一万多起"
+        },
+        {
+          "title": "廿二号晒成绩单",
+          "desc": "日期钉在五月廿二——紧随其后就是银行硬仗：止住一笔奔着一百五十万美元走的欺诈电汇"
+        }
+      ],
+      "narration": "时间线捋直：Glasswing 上个月才踩油门，奔着先把关键软件的壳加厚。满一个月账目摊开——伙伴差不多人手几百条高危单，合在一起破万；同一份总结里还跟了银行侧的硬仗，一百五十万美元诈骗电汇被当场摁住——不是我临场加的戏。",
+      "image_prompt": "English, vertical 9:16 minimalist timeline ribbons curving upward, calendar motif subtle, noir finance skyline bokeh, cool cyan/orange grading, symbolic bank vault silhouette blurred, no text, no logos"
+    },
+    {
+      "layout": "outro",
+      "headline": "普通人能做点啥",
+      "bullets": [
+        {
+          "title": "#Claude",
+          "desc": ""
+        }
+      ],
+      "narration": "总结一下——攻守都把油门踩满，你还能做的就老三件：系统自动更就别拖、陌生链条别瞎点、双重验证能上尽上。把自家门锁紧，比对空气骂 AI 实在得多。",
+      "image_prompt": "English, vertical 9:16 cozy living room handheld phone updating software with warm lamp light through window blinds, reassuring calm vibes, cinematic portrait framing, focus on fingertips tapping update button, no text, no logos"
+    }
+  ]
+}
