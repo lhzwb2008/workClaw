@@ -1,0 +1,76 @@
+{
+  "title": "AI为啥爱瞎编",
+  "keyword": "幻觉",
+  "source": {
+    "title": "Why language models hallucinate",
+    "url": "https://openai.com/blog/why-language-models-hallucinate",
+    "site": "OpenAI"
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "chapter_title": "为啥瞎编",
+      "concept": "AI瞎编不是坏了，是训练就奖励猜",
+      "headline": "AI为啥爱瞎编",
+      "subtitle": "明明不知道，却答得理直气壮",
+      "bullets": [],
+      "narration": "你问AI一个它不知道的事，它照样答得有鼻子有眼。OpenAI说这不是程序坏了，是设计。今天五张图讲清楚。",
+      "image_prompt": "Sketch a confused human asking a question in a chat bubble on the left, and a robot on the right replying with a long confident answer. Draw a small thought bubble above the robot showing a checkmark next to a false fact, with a question mark above the human.",
+      "on_image_text": ["AI为啥爱瞎编", "用户提问", "AI自信回答", "事实：不存在", "不是坏了", "是设计", "5张图讲清"]
+    },
+    {
+      "layout": "insight",
+      "chapter_title": "训练目标",
+      "concept": "它学的是接龙流畅，不是判断真假",
+      "headline": "它学的不是真假",
+      "bullets": [
+        {"title": "预训练", "desc": "预测下一个词，没有对错标签"},
+        {"title": "奖励机制", "desc": "答得流畅像人话，就算过关"},
+        {"title": "结果", "desc": "会编故事，不会说不知道"}
+      ],
+      "narration": "先看训练目标：AI玩的是文字接龙，猜下一个词该是什么。不像考试有对错，它只看像不像人说话。生日这类零散事实，根本没法从规律里推出来。",
+      "image_prompt": "Sketch a left-right comparison. Left: human teacher at blackboard writing TRUE and FALSE with a student marking answers. Right: robot reading a sentence with arrows pointing to the next predicted word, labeled as autocomplete. Draw a not-equal sign between truth-checking and next-word prediction.",
+      "on_image_text": ["人类老师", "判断真假", "AI模型", "预测下一个词", "文字接龙", "≠真假", "流畅=好", "不会说不知道"]
+    },
+    {
+      "layout": "data",
+      "chapter_title": "数字对比",
+      "concept": "瞎猜的模型，排行榜分数反而更高",
+      "headline": "猜多的分更高",
+      "stat": {"value": "75%", "label": "老模型答错率", "context": "SimpleQA测试几乎每题都猜"},
+      "bullets": [
+        {"title": "老模型", "desc": "几乎每题都答，错75%"},
+        {"title": "新模型", "desc": "一半说不知道，错26%"}
+      ],
+      "narration": "OpenAI做了SimpleQA测试：老模型几乎每题都答，错75%；新模型52%说不知道，错26%。但只看答对率，瞎猜的老模型反而略高。",
+      "image_prompt": "Sketch two bar charts side by side comparing two AI models. Left bar chart labeled old model with tall red error bar at 75% and tiny abstention bar at 1%. Right bar chart labeled new model with moderate green accuracy bar at 22% and large gray abstention bar at 52% and smaller red error bar at 26%. Draw an arrow pointing to accuracy metric favoring the left model.",
+      "on_image_text": ["SimpleQA测试", "老模型", "几乎全答", "错率75%", "新模型", "52%说不知道", "错率26%", "答对率", "猜多的更高"]
+    },
+    {
+      "layout": "story",
+      "chapter_title": "考试类比",
+      "concept": "排行榜像只比答对数的选择题",
+      "headline": "蒙比空着划算",
+      "bullets": [
+        {"title": "选择题", "desc": "不会的蒙一个，还有1/365机会"},
+        {"title": "空着", "desc": "说不知道，必定零分"},
+        {"title": "排行榜", "desc": "只比答对几题，不比错几题"}
+      ],
+      "narration": "打个比方：AI像在考选择题。问某人生日，猜9月10日有365分之一能对；说不知道必得零分。排行榜只比答对几题，不比错几题，考场上它就宁可编。",
+      "image_prompt": "Sketch a multiple-choice exam paper with four options A B C D. Draw a student hesitating between guessing randomly and leaving blank. Show probability 1/365 next to a birthday guess. Add a scoreboard at bottom ranking students only by number of correct answers, ignoring wrong answers.",
+      "on_image_text": ["选择题考试", "不会怎么办", "蒙：1/365", "空着：0分", "AI猜生日", "排行榜", "只比答对", "不比答错", "宁可编"]
+    },
+    {
+      "layout": "outro",
+      "chapter_title": "结论",
+      "concept": "重要的事别全信，让它标不确定",
+      "headline": "猜比诚实得分高",
+      "bullets": [
+        {"title": "记住", "desc": "幻觉是奖励机制，不是神秘故障"}
+      ],
+      "narration": "一句话：AI瞎编，因为猜比诚实得分高。你要做的：重要的事别全信，让它标出哪里不确定。",
+      "image_prompt": "Sketch a simple flow: robot at fork in road, left path labeled guess and win points, right path labeled say I don't know and get zero. At bottom draw a human with a checklist: verify important facts, ask for uncertainty labels.",
+      "on_image_text": ["一句话", "猜>诚实", "重要别全信", "让它标不确定", "标签：幻觉"]
+    }
+  ]
+}
