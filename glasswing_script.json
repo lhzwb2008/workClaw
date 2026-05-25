@@ -1,0 +1,76 @@
+{
+  "title": "AI挖出万级漏洞",
+  "keyword": "Glasswing",
+  "source": {
+    "title": "Project Glasswing: An initial update",
+    "url": "https://www.anthropic.com/research/glasswing-initial-update",
+    "site": "Anthropic"
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "chapter_title": "钩子",
+      "concept": "AI找洞快，人类打补丁慢",
+      "headline": "AI挖出万级漏洞",
+      "subtitle": "几周顶人类几十年，补丁却跟不上",
+      "bullets": [],
+      "narration": "Anthropic 说，专用 AI 几周就挖出上万高危漏洞，有的藏了几十年。为啥这么猛？今天五张图讲明白。",
+      "image_prompt": "Sketch a magnifying glass held by a simple robot head over tangled lines of code on notebook paper. A human security researcher on the left looks exhausted with a small pile of bugs; on the right the robot points to a huge stack labeled 10000+. A big question mark between them.",
+      "on_image_text": ["AI挖出万级漏洞", "人类：几十年", "AI：几周", "高危漏洞", "为啥这么快?", "Glasswing"]
+    },
+    {
+      "layout": "insight",
+      "chapter_title": "怎么找",
+      "concept": "把超强AI当代码侦探，专扫关键软件",
+      "headline": "它怎么做到的",
+      "bullets": [
+        {"title": "专用模型", "desc": "Claude Mythos Preview，不公开售卖"},
+        {"title": "联盟扫描", "desc": "约50家伙伴，盯互联网底层代码"},
+        {"title": "工作方式", "desc": "读代码+模拟攻击路径，像自动渗透测试"}
+      ],
+      "narration": "今年四月启动 Glasswing，核心是未公开的 Mythos 模型。约五十家伙伴把它对准操作系统、浏览器这些底层代码，像派了永不疲倦的侦探，专找人类漏看的逻辑洞。",
+      "image_prompt": "Sketch a flow left to right: locked box labeled Mythos Preview, arrow to coalition of about 50 company logos as simple icons, arrow to layers stack OS browser crypto library, arrow to robot detective with flashlight on code blocks highlighting red X marks.",
+      "on_image_text": ["Glasswing", "Mythos Preview", "不公开发布", "约50家伙伴", "关键底层软件", "自动读代码", "找逻辑漏洞", "≠普通聊天"]
+    },
+    {
+      "layout": "data",
+      "chapter_title": "数字",
+      "concept": "发现上万洞，已修补只有几十",
+      "headline": "一万对比七十五",
+      "stat": "10000+ 高危发现 · 75 已打补丁",
+      "bullets": [
+        {"title": "发现端", "desc": "伙伴合计超1万高危/严重漏洞"},
+        {"title": "修补端", "desc": "已披露530个高危中，仅75个已修补"}
+      ],
+      "narration": "官方数据很直观：伙伴合计找到超过一万个高危或严重漏洞。但已披露的高危里，目前只有七十五个打完补丁。找洞的速度，已经甩开修洞好几条街。",
+      "image_prompt": "Sketch a bar chart with two tall bars on the left labeled found 10000+ and a tiny bar on the right labeled patched 75. Below, a funnel diagram: many bugs at top, narrow bottleneck labeled human triage and patch at bottom.",
+      "on_image_text": ["10000+", "高危/严重", "530", "已披露", "75", "已打补丁", "65", "安全公告", "瓶颈：人手"]
+    },
+    {
+      "layout": "story",
+      "chapter_title": "转折",
+      "concept": "安全瓶颈从找洞变成验洞修洞",
+      "headline": "瓶颈换了",
+      "bullets": [
+        {"title": "过去", "desc": "行业卡在「找得够不够快」"},
+        {"title": "现在", "desc": "卡在验证、披露、打补丁"},
+        {"title": "开源扫描", "desc": "1000+项目里估出6202个高危候选"}
+      ],
+      "narration": "以前行业慢在找漏洞，现在慢在验证和修补。开源侧扫了一千多个项目，模型估出六千多个高危候选，还得人工复核，平均一个高危洞修补要约两周。",
+      "image_prompt": "Sketch a horizontal timeline: node April 2026 launch Glasswing, arrow to May 22 2026 update, then a before-after comparison: left bottleneck icon magnifying glass finding bugs, right bottleneck icon wrench and human reviewer queue with long waiting line.",
+      "on_image_text": ["4月启动", "5月22更新", "过去：找得慢", "现在：修得慢", "1000+开源项目", "6202", "高危候选", "人工复核", "约2周/洞"]
+    },
+    {
+      "layout": "outro",
+      "chapter_title": "结论",
+      "concept": "AI让暗洞见光，你更要及时更新",
+      "headline": "找洞≠修好",
+      "bullets": [
+        {"title": "记住", "desc": "发现变快，修补仍靠人与流程"}
+      ],
+      "narration": "一句话：AI 把藏了几十年的洞批量照出来，但真正保命的，还是开发者缩短补丁周期、你我及时更新系统。关注 Glasswing。",
+      "image_prompt": "Sketch a simple takeaway diagram: left side lightbulb over bug list discovered fast, right side shield with update arrow pointing to laptop and phone with checkmark. A small tag at bottom says patch now.",
+      "on_image_text": ["找洞≠修好", "及时更新", "缩短补丁周期", "Glasswing", "关注AI安全"]
+    }
+  ]
+}
