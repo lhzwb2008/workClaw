@@ -1,0 +1,79 @@
+{
+  "title": "AI为啥爱瞎编",
+  "keyword": "幻觉",
+  "source": {
+    "title": "Why language models hallucinate",
+    "url": "https://openai.com/index/why-language-models-hallucinate/",
+    "site": "OpenAI"
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "chapter_title": "为啥瞎编",
+      "concept": "AI瞎编不是坏了，是训练奖惩教出来的",
+      "headline": "AI为啥爱瞎编",
+      "subtitle": "明明不知道，却答得理直气壮",
+      "bullets": [],
+      "narration": "你问AI一个它压根不知道的问题，它照样编得有鼻子有眼。这不是程序坏了，是训练方式决定的。五张图给你讲明白。",
+      "image_prompt": "Sketch a confused human holding a phone with a question bubble, facing a robot that replies with a long confident answer. Draw a small checkmark on the robot's answer and a big X on a hidden fact sheet behind it.",
+      "on_image_text": ["AI为啥爱瞎编", "用户：冷门问题", "AI：斩钉截铁", "其实：全是编的", "不是坏了", "五张图讲清"]
+    },
+    {
+      "layout": "insight",
+      "chapter_title": "学习目标",
+      "concept": "它学的是猜下一个词，不是判断真假",
+      "headline": "它学的不是真假",
+      "bullets": [
+        {"title": "预训练方式", "desc": "读海量文字，猜下一个词像不像人写的"},
+        {"title": "没有标签", "desc": "训练数据里没有「对/错」标记"},
+        {"title": "流畅优先", "desc": "说得顺、像真的，比说得对更重要"}
+      ],
+      "narration": "AI学说话，不像做判断题判对错，更像填字游戏——不断猜下一个词像不像人写的。训练目标只有一个：说得像真的、够流畅，根本不负责核对事实真假。",
+      "image_prompt": "Sketch a left-right comparison. Left: a teacher marking TRUE and FALSE on a chalkboard. Right: a robot reading a sentence with arrows pointing to the next blank word being filled in.",
+      "on_image_text": ["人类学知识", "判断对错", "AI学语言", "猜下一个词", "没有对错标签", "流畅>正确", "填字游戏"]
+    },
+    {
+      "layout": "data",
+      "chapter_title": "榜单陷阱",
+      "concept": "榜单只奖励答对，不奖励说不知道",
+      "headline": "猜对有分空着零分",
+      "stat": {
+        "value": "75% vs 26%",
+        "label": "爱猜的模型，答错率远高于肯留白的"
+      },
+      "bullets": [
+        {"title": "o4-mini", "desc": "很少说不知道，准确率24%，错率75%"},
+        {"title": "gpt-5", "desc": "更常留白，错率26%，但榜单仍只比准确率"}
+      ],
+      "narration": "OpenAI拿SimpleQA榜单举例：o4-mini几乎不说「不知道」，准确率24%，错率高达75%。新一代更常留白，错率降到26%。可主流榜单只比谁答对多，等于逼着模型瞎猜。",
+      "image_prompt": "Sketch a bar chart comparing two cartoon robots. Left robot labeled with high error bar at 75 percent and low abstention. Right robot with low error bar at 26 percent and high abstention. Draw a trophy above the left robot labeled accuracy only.",
+      "on_image_text": ["SimpleQA榜单", "o4-mini", "错率75%", "gpt-5", "错率26%", "空着=0分", "猜对+1", "→鼓励瞎编"]
+    },
+    {
+      "layout": "story",
+      "chapter_title": "考场类比",
+      "concept": "像不会做的选择题，瞎蒙比空着划算",
+      "headline": "不会做也瞎蒙",
+      "bullets": [
+        {"title": "选择题逻辑", "desc": "不会就蒙，蒙中有分；空着必零分"},
+        {"title": "冷门事实", "desc": "宠物生日这类信息，靠猜下一个词根本猜不准"},
+        {"title": "语气笃定", "desc": "挑最像真的答案，还说得特别自信"}
+      ],
+      "narration": "就像考场上不会的题，卷子上空着也扣分。AI遇到没见过的冷门知识，会挑出最像真的答案，语气还特别笃定。拼写错误模型能学会，随机事实却只能靠猜——猜错了也像真的。",
+      "image_prompt": "Sketch an exam scene: a student at a desk facing a multiple-choice test. One question asks for a pet birthday. Show three paths with arrows: blank equals zero points, guess equals maybe correct, say I dont know equals zero points.",
+      "on_image_text": ["考场难题", "空着=0分", "瞎蒙可能中", "说不知道=0分", "宠物生日?", "靠猜下一个词", "挑最像真的", "语气很笃定"]
+    },
+    {
+      "layout": "outro",
+      "chapter_title": "一句记住",
+      "concept": "宁可编，也不说不知道——是打分规则教的",
+      "headline": "记住这一句话",
+      "bullets": [
+        {"title": "核心结论", "desc": "瞎编不是偶发失灵，是奖惩机制造成的"}
+      ],
+      "narration": "记住：AI一本正经胡说八道，不是它变坏了，是打分规则教它——宁可编一个像真的，也不说「我不知道」。",
+      "image_prompt": "Sketch a simple summary diagram: a robot in the center with two speech bubbles. One bubble shows a confident wrong answer with a plus sign. The other shows I dont know with a minus sign. Draw an arrow pointing to the confident bubble labeled rewarded.",
+      "on_image_text": ["一句话记住", "不是变坏了", "是打分规则", "宁可编", "不说不知道", "改榜单才行", "#幻觉"]
+    }
+  ]
+}
