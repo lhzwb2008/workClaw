@@ -9,12 +9,12 @@ For a Shorts audience, the simple version is this: the company that used to only
 ## What happened (facts + numbers)
 
 - On **Monday, June 8, 2026**, Intel shares closed up **11.19%** at **$110.27**, per The Motley Fool. Intraday, the stock rose as much as **12%**, according to Reuters' social post summarizing its coverage.
-- Trading volume hit roughly **135 million shares**, about **9% above** Intel's three-month daily average, signaling unusually heavy attention from both retail and institutional participants.
+- Trading volume hit roughly **135 million shares**, about **9% above** Intel's three-month daily average.
 - The Information reported that Google ordered more than **3 million tensor processing units** — Google's in-house AI accelerators — to be manufactured by Intel for **2028 production**, citing people with direct knowledge of the discussions.
 - Intel would serve as a **contract manufacturer**, meaning it fabricates Google's chip designs rather than selling Intel-branded processors. The report framed Intel as a **second source** alongside Taiwan Semiconductor Manufacturing, the dominant global foundry that currently produces the bulk of advanced AI silicon.
 - **Morgan Stanley** estimates cited in follow-on coverage suggest Google's total TPU production across **2027 and 2028** could exceed **six million units**, implying the reported Intel order could represent a substantial slice of a much larger pipeline.
 - The same report said **Nvidia** is **evaluating** Intel's advanced **18A** manufacturing process and packaging technology for a future processor design, but has **not placed an order**.
-- Memory supplier **SK Hynix** is reportedly testing whether its high-bandwidth memory works reliably with Intel's advanced packaging — a technical hurdle that, if cleared, would strengthen Intel's credibility as a full-stack manufacturing alternative.
+- Memory supplier **SK Hynix** is reportedly testing whether its high-bandwidth memory works with Intel's advanced packaging.
 - While Intel surged, **Alphabet** shares slipped more than **1%** on the day, as investors weighed whether scaling custom silicon through an unproven foundry partner could carry margin or execution risk.
 - The rally arrived just days after a brutal Friday session in which the Philadelphia Semiconductor Index fell **10%** and chip stocks lost roughly **$1 trillion** in combined market value, per Reuters — making Intel's Monday move stand out even more.
 
@@ -22,7 +22,7 @@ For a Shorts audience, the simple version is this: the company that used to only
 
 Think of the global chip industry as a restaurant chain with two very different business models.
 
-**Designers** are like celebrity chefs. They create the recipes — the blueprints for how a chip should work. **Nvidia** designs the GPUs that power most AI training. **Google** designs its own TPUs because it wants a house specialty tuned for its search, cloud, and Gemini AI products. **Apple** designs processors for iPhones. These companies focus on architecture, software, and performance.
+**Designers** are like celebrity chefs. They create the recipes — the blueprints for how a chip should work. **Nvidia** designs the GPUs that power most AI training. **Google** designs its own TPUs because it wants a house specialty tuned for its search, cloud, and Gemini AI products.
 
 **Foundries** are the industrial kitchens. They do not invent the menu. They build the kitchen, source the ingredients, and mass-produce the dish exactly to spec, millions of times, with near-perfect consistency. For decades, **TSMC** has been the world's best kitchen — the place every top chef wants a reservation.
 
@@ -58,14 +58,13 @@ Production in **2028** gives the market a concrete checkpoint. Intel has said it
 - **Execution risk.** Intel has a documented history of missing advanced-node timelines. Manufacturing **three million** cutting-edge AI chips by **2028** requires sustained yield improvements, flawless packaging, and massive clean-room capacity. One bad ramp could damage customer trust that took years to rebuild.
 - **Customer concentration and competition.** Even a large Google order does not guarantee a pipeline. TSMC is not standing still, and Samsung and other foundries are also competing for overflow demand. Nvidia's interest remains at the **evaluation** stage — not a signed contract.
 - **Margin and capital intensity.** Foundry work is expensive. Intel is spending heavily on U.S. fabrication plants while its foundry division has historically operated at a loss. Investors may love the headline today but will demand proof that external revenue converts into profitable scale, not just bragging rights.
-- **Geopolitical and policy dependence.** Intel's U.S. manufacturing push benefits from CHIPS Act support and Washington's push to onshore critical technology. Shifts in subsidy policy, trade restrictions, or customer preference for non-U.S. supply chains could alter the economics.
-- **Alphabet's own calculus.** Google is simultaneously investing in cloud AI, custom silicon partnerships, and supply diversification. If manufacturing through Intel raises costs or delays deployments, Google could shift volume back to TSMC or redesign its roadmap — especially if its own shareholders push back on margin pressure.
+- **Policy and partner risk.** Intel's U.S. manufacturing push depends on CHIPS Act support and customer willingness to onshore production. If costs run high or timelines slip, Google could shift volume back to TSMC.
 
 ## One open question for viewers
 
 **If Google really did place this order, does it make Intel a foundry contender — or just a overflow valve while TSMC stays booked solid?**
 
-That distinction matters enormously. A "contender" earns repeat orders, attracts Nvidia and other hyperscalers, and forces a permanent reshaping of the AI supply chain. An "overflow valve" gets one big headline contract during a capacity crunch — and then fades once TSMC expands or competitors catch up. The next few quarters of yield data, customer announcements, and any official confirmation from Google or Intel will tell us which story we are actually watching.
+A "contender" earns repeat orders and reshapes the supply chain. An "overflow valve" gets one headline contract, then fades once capacity loosens. Yield data and any official confirmation from Google or Intel will decide which story wins.
 
 ---
 
