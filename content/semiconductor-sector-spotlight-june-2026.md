@@ -24,30 +24,24 @@ Here are the verified data points anchoring this story, cross-checked across CNB
 
 ### The catalyst: Broadcom earnings (early June)
 
-Broadcom reported fiscal Q2 revenue of approximately **$22.2 billion**, up **48%** year over year, with AI semiconductor revenue surging **143%** to **$10.8 billion**, according to The Motley Fool and Investing.com. By most measures, the quarter was exceptional.
-
-The market punished the stock anyway. Broadcom shares fell roughly **13%** on Thursday and additional ground on Friday, for a total pullback of about **20%** over two sessions, per The Motley Fool and Wolf Street. The trigger: management did not raise its full-year AI semiconductor sales guidance, and its Q3 AI chip sales projection of **$16 billion** came in below analyst estimates near **$17.2 billion**, according to Investing.com.
+Broadcom reported fiscal Q2 revenue of approximately **$22.2 billion**, up **48%** year over year, with AI semiconductor revenue surging **143%** to **$10.8 billion** (The Motley Fool, Investing.com). The market punished the stock anyway — down about **20%** over two sessions — because management did not raise full-year AI guidance and Q3 AI chip sales of **$16 billion** came in below estimates near **$17.2 billion** (Investing.com).
 
 ### Friday, June 5: The sector's worst day in years
 
-- **Nasdaq Composite:** fell **4.18%** to **25,709.43** — worst day since April 2025 tariff turmoil (Analysis.org, citing index data)
+- **Nasdaq Composite:** fell **4.18%** to **25,709.43** — worst day since April 2025 (Analysis.org)
 - **S&P 500:** dropped **2.64%** to **7,383.74** (CNBC)
-- **iShares Semiconductor ETF (SOXX):** sank about **10%** — worst day since March 2020 (CNBC, The Motley Fool)
-- **Individual chip names on June 5:** Marvell Technology fell about **17%**; Micron Technology about **13%**; Intel and Advanced Micro Devices each around **11%** (The Motley Fool)
+- **iShares Semiconductor ETF:** sank about **10%** (CNBC, The Motley Fool)
+- **Key decliners:** Marvell (~17%), Micron (~13%), Intel and AMD (~11% each) (The Motley Fool)
 
-The May jobs report released the same morning showed **172,000** payroll gains (BLS), pushing the **10-year Treasury yield above 4.5%** and the **30-year above 5%**, per CNBC — reviving concerns about borrowing costs for capital-intensive AI buildouts.
+The May jobs report (+172,000 payrolls, BLS) pushed the **10-year Treasury yield above 4.5%** and the **30-year above 5%** (CNBC).
 
-### Monday–Tuesday, June 8–9: Volatile, unresolved
+### June 8–9: Volatile, unresolved
 
-Reuters on June 8 noted Nasdaq futures attempting recovery after Friday's **4.2%** drop, but described the move as "more like a positioning and momentum unwind than a reassessment of the long-term AI story," quoting Lucerne Asset Management.
-
-On **June 9**, the semiconductor ETF SOXX closed down **1.62%** at **$562.17**, per market data for that session. The Nasdaq fell **0.97%** while the S&P slipped **0.26%** (MarketScreener).
-
-Some reports described violent intraday reversals in chip stocks — including a **6%** SOXX bounce on Monday followed by renewed selling — highlighting how fragile the recovery attempts have been. **Intraday figures may vary by session timing; closing data above is from verified end-of-day sources.**
+On **June 9**, SOXX closed down **1.62%** at **$562.17**. The Nasdaq fell **0.97%** to **25,678.82** (-5.22% over five sessions); the S&P slipped **0.26%** to **7,386.65** (-2.93% weekly) — per MarketScreener. Reuters described Monday's move as "positioning and momentum unwind," not a fundamental AI reassessment.
 
 ### What gained while chips fell
 
-On **June 5**, defensive sectors led: **Consumer Staples** rose about **1.6%**, **Health Care** about **0.7%**, and **Utilities** about **0.8%**, while Information Technology plunged (WaveRider AI sector summary). Health care names like **UnitedHealth** gained on analyst upgrades as funds rotated toward lower-multiple defensive stocks, according to multiple market reports.
+On **June 5**, Consumer Staples (+1.6%), Health Care (+0.7%), and Utilities (+0.8%) led while Information Technology plunged (WaveRider AI). **UnitedHealth** gained on analyst upgrades as funds rotated toward defensives (Kalkine).
 
 ---
 
@@ -76,37 +70,27 @@ The chain is: **strong economy → higher yields → expensive growth gets repri
 
 The honest answer is: **probably neither purely a blip nor a confirmed new bear market — but the risk of a deeper correction has risen.**
 
-**Evidence this could be a short-term shakeout:**
+**Evidence this could be a short-term shakeout:** Broadcom's results were genuinely strong — the selloff was about expectations, not deterioration. Reuters quoted Lucerne Asset Management calling it "positioning and momentum unwind." Hyperscalers like Microsoft, Amazon, and Alphabet may retain support if AI productivity gains materialize (FXStreet).
 
-- Broadcom's actual results were strong by any fundamental measure — revenue up 48%, AI chips up 143%. The selloff was about **expectations**, not deterioration.
-- Reuters quoted Marc Velan of Lucerne Asset Management calling the move "a positioning and momentum unwind rather than a reassessment of the long-term AI story."
-- FXStreet noted that hyperscalers like **Microsoft**, **Amazon**, and **Alphabet** may retain downside protection because productivity gains from AI spending are still expected.
-- Citi warned on **June 9** that despite the selloff, bullish tech positioning remains extended — suggesting the purge may not be complete, but also that the underlying AI thesis has not been abandoned.
+**Evidence this could mark a longer rotation:** Three sessions of violent chip moves in early June (roughly -10%, +6%, then down again) suggest failed dip-buying. The **SpaceX IPO** (~$75 billion raise, expected June 11–12, Bloomberg) may drain capital from crowded positions. Goldman Sachs and BNP Paribas have shifted toward rate-hike forecasts (Bloomberg). Bank of America upgraded UnitedHealth while downgrading Broadcom the same day (Kalkine) — a symbolic institutional rotation.
 
-**Evidence this could mark a longer rotation:**
-
-- The sector has seen **three consecutive sessions of violent moves** in early June — down roughly 10% on June 5, up about 6% on June 8, then down again on June 9 — a pattern of failed dip-buying that often precedes longer de-risking.
-- The **SpaceX IPO**, expected to price around **June 11–12** and raise roughly **$75 billion** (Bloomberg, Asia Business Daily), may pull institutional capital away from crowded chip positions to fund the largest public offering in history.
-- Multiple Wall Street firms have shifted from rate-cut forecasts to **rate-hike expectations** (Goldman Sachs, BNP Paribas, per Bloomberg) — a macro headwind unlikely to reverse in days.
-- Bank of America upgraded **UnitedHealth** while downgrading **Broadcom** on the same day (Kalkine), a symbolic institutional vote for rotating out of AI hardware into cheaper sectors.
-
-**Base case for retail investors:** This looks like the **first serious sector rotation of 2026** — out of crowded semiconductor winners and into defensives and value. Whether it becomes a multi-month trend depends on whether upcoming catalysts (May CPI on June 10, the June 16–17 Fed meeting, SpaceX listing flows) stabilize or amplify the pressure.
+**Base case:** This looks like the **first serious sector rotation of 2026** — out of semiconductor winners, into defensives. Whether it lasts depends on May CPI (June 10), the Fed meeting (June 16–17), and SpaceX listing flows.
 
 ---
 
 ## 5. Risks to the Thesis
 
-**The AI capex cycle may not slow.** Hyperscalers are still planning hundreds of billions in data-center spending. If upcoming earnings from **Microsoft**, **Amazon**, **Alphabet**, or **Meta** reaffirm AI infrastructure budgets, chip stocks could snap back quickly.
+**The AI capex cycle may not slow.** Hyperscaler spending plans could reaffirm chip demand in upcoming earnings.
 
-**Positioning cuts may be incomplete.** Citi's June 9 note flagged that most tech long positions remain profitable even after the selloff — meaning forced liquidation may have further to run, but also that dip-buyers with conviction could re-enter.
+**Positioning cuts may be incomplete.** Citi's June 9 note flagged that most tech longs remain profitable — dip-buyers could return, or forced selling may continue.
 
-**SpaceX IPO liquidity effects are uncertain.** Bloomberg reported institutional demand several times oversubscribed, which could drain capital from other sectors — or, if the IPO disappoints, release trapped liquidity back into the market.
+**SpaceX IPO liquidity effects are uncertain.** Oversubscribed demand (Bloomberg) could drain capital from chips — or a disappointing debut could release it.
 
-**Geopolitical oil shocks cut both ways.** Middle East tensions pushed Brent crude **5% higher** on June 8 (Reuters), which supports energy stocks but worsens the inflation-yield-chip selloff feedback loop. A durable ceasefire could ease yields and help semis — or trigger a different kind of volatility.
+**Geopolitical oil shocks cut both ways.** Brent rose **5%** on June 8 (Reuters), worsening the inflation-yield-chip loop; a ceasefire could ease yields.
 
-**Valuation reset may already be priced in.** After a 10% sector drop and 20% declines in key names, much of the "guidance disappointment" may be reflected. Further downside requires a **new** negative catalyst, not a repeat of last week's news.
+**Valuation reset may be partly done.** After 10%+ sector drops, further downside needs a **new** catalyst.
 
-**Asia contagion risk.** With Korea's KOSPI down **16%** from highs and Taiwan and Japan under pressure, global semiconductor supply-chain sentiment could deteriorate even if US fundamentals hold.
+**Asia contagion risk.** Korea's KOSPI is down **16%** from highs (Reuters), which could spread sentiment even if US fundamentals hold.
 
 ---
 
