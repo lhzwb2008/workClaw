@@ -6,7 +6,7 @@
 
 ## What Happened: Who Said and Did What, and When
 
-The dominant US macro storyline over the past 72 hours is not a single headline — it is a **regime shift in interest-rate expectations**. Three events chained together to create it.
+The dominant US macro storyline over the past 72 hours is a **regime shift in interest-rate expectations** — three events chained together.
 
 ### Friday, June 5: The jobs report that changed the conversation
 
@@ -48,19 +48,19 @@ For retail investors, the chain from macro data to portfolio pain (or relief) ru
 
 **Step 1: Strong data → higher rate expectations.** When payrolls beat forecasts and inflation stays above the Fed's 2% target, traders reduce the odds of rate cuts and increase the odds of holds — or hikes. That shift shows up first in the **short end of the Treasury curve** (2-year yields), which tracks near-term Fed policy expectations.
 
-**Step 2: Higher yields → higher discount rates.** Stock valuations depend partly on the rate used to discount future corporate earnings. When the 10-year Treasury yield rises — it has climbed roughly 60+ basis points from March lows, per Bloomberg — the "price of money" goes up. Future profits are worth less in today's dollars. That pressure hits **long-duration assets** hardest: high-growth technology, speculative biotech, and any company valued primarily on earnings far in the future.
+**Step 2: Higher yields → higher discount rates.** When the 10-year Treasury yield rises — up roughly 60+ basis points from March lows, per Bloomberg — future profits are worth less today. That hits **long-duration assets** hardest: high-growth tech and any company valued on distant earnings.
 
-**Step 3: Sector rotation.** Rising rates and inflation fears tend to favor companies with **pricing power, near-term cash flows, and lower debt loads**. They tend to punish **rate-sensitive sectors** — housing (mortgage rates track the 10-year), utilities, and real estate investment trusts — as well as companies that borrowed heavily when rates were lower.
+**Step 3: Sector rotation.** Rising rates favor companies with **pricing power and near-term cash flows**. They punish **rate-sensitive sectors** — housing, utilities, REITs — and heavily indebted firms.
 
-**Step 4: The dollar and oil channel.** Reuters reported the dollar retreating from recent highs as Gulf tensions eased in early June, even as rate-hike bets rose. Oil prices near **$90+ per barrel** (Bloomberg and CNBC cited levels in this range during the period) feed directly into headline CPI through the energy component, which accounted for over **40%** of April's monthly CPI increase, per the BLS. That creates a feedback loop: geopolitical risk → higher energy → higher inflation prints → higher yields → tighter financial conditions → slower growth expectations.
+**Step 4: The oil channel.** Oil near **$90+ per barrel** feeds headline CPI; energy accounted for over **40%** of April's monthly increase, per the BLS. Geopolitical risk → higher energy → higher inflation → higher yields → tighter conditions.
 
-Think of it like adjusting the interest rate on a mortgage calculator. A half-point increase does not change the house — but it changes what you can afford to pay. The stock market is repricing what it can "afford" to pay for corporate earnings.
+Think of it like a mortgage calculator: a half-point rate increase does not change the house, but it changes what you can afford. Markets are repricing what they can pay for earnings.
 
 ---
 
 ## What Smart Money Is Debating (Both Sides, No Calls)
 
-Institutional investors are not monolithic on this pivot. The debate has at least three live fault lines.
+The debate has three live fault lines.
 
 ### Fault line 1: Is this a real hike cycle or a market overshoot?
 
@@ -70,9 +70,7 @@ Institutional investors are not monolithic on this pivot. The debate has at leas
 
 ### Fault line 2: Can Kevin Warsh hold the line?
 
-Warsh enters the chairmanship with a stated preference for lower rates and skepticism toward forward guidance — but also faces **public challenges from Fed colleagues** on his preferred inflation metrics. CNBC reported that multiple officials, including Logan and Cleveland Fed President Beth Hammack, have pushed back on relying too heavily on "trimmed mean" inflation measures that Warsh has cited as evidence price pressures are closer to 2% than headline data suggest.
-
-The institutional question: Can Warsh signal independence from White House pressure for cuts while keeping a divided committee aligned? His **June 16–17 press conference** will be scrutinized as much for tone as for the rate decision itself.
+Warsh favors lower rates but faces **public challenges from Fed colleagues** on his preferred "trimmed mean" inflation metrics, per CNBC. Can he signal independence from White House pressure while keeping a divided committee aligned? His **June 16–17 press conference** will be scrutinized as much for tone as for the rate decision.
 
 ### Fault line 3: Strong headline, soft underbelly?
 
