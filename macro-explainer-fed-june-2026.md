@@ -28,7 +28,7 @@ The median end-2026 funds rate of **3.8%** sits roughly 25 basis points above th
 
 **Market reaction the same day.** U.S. equities sold off broadly. The Motley Fool reported the **S&P 500 fell 1.21%** to 7,420.10, the **Nasdaq Composite dropped 1.34%** to 26,021.66, and the **Dow declined 0.98%** to 51,492.55. The **10-year Treasury yield** finished near **4.49%**, per the same session summary. All 11 S&P sectors closed lower.
 
-**The macro backdrop the Fed was reading.** Oil prices were falling sharply even as policymakers met. Reuters reported on June 17 that **Brent crude dipped below $80 a barrel** — its lowest since the early phase of the U.S.–Iran conflict — as traders priced in a prospective peace agreement and the possible return of Iranian supply. That disinflationary force was moving in real time, but the Fed's projections reflected inflation already in the pipeline from the earlier energy shock.
+**The macro backdrop.** Reuters reported on June 17 that **Brent crude dipped below $80 a barrel** as traders priced in a prospective U.S.–Iran peace deal and returning supply. Oil was falling in real time; the Fed's projections reflected inflation already embedded from the earlier energy shock.
 
 ## Transmission to Stocks: From Rates to Valuations, in Plain English
 
@@ -40,9 +40,7 @@ Think of interest rates as the gravity of financial markets. When gravity rises,
 
 **The sector rotation channel.** Not every stock falls equally in a higher-rate regime. Financials can benefit from wider net interest margins if the yield curve steepens. Consumer staples and utilities — businesses with nearer-term cash flows — tend to hold up better than speculative growth. On June 17, communications services was among the weakest S&P sectors, down 2.91%, per The Motley Fool.
 
-**The dollar and global liquidity channel.** A hawkish Fed typically supports the U.S. dollar, which can tighten financial conditions abroad and pressure multinational earnings translated back into dollars. Reuters noted on June 17 that traders were watching whether Warsh would push back on market pricing of hikes; the dollar's reaction was relatively muted pre-conference but the broader re-pricing of rate expectations still mattered for cross-border flows.
-
-**The inflation-versus-growth trade-off.** The Fed's own projections show a subtle mix: growth trimmed slightly (2.2% GDP vs. 2.4% in March), unemployment slightly lower (4.3%), but inflation sharply higher. That combination — sticky inflation without a collapsing labor market — gives policymakers room to talk tough on prices without signaling recession. Markets read that as "less Fed put," which is why risk assets struggled.
+**The inflation-versus-growth trade-off.** Projections show growth trimmed to 2.2%, unemployment at 4.3%, but inflation sharply higher. Sticky prices without a collapsing labor market gives policymakers room to talk tough — markets read that as "less Fed put."
 
 ## What Smart Money Is Debating — Both Sides, No Verdict
 
@@ -68,7 +66,7 @@ Neither side owns the narrative yet. That is exactly why June 17 moved markets: 
 
 **2. Fed speakers and the July–September meeting window.** CNBC reported markets began pricing a hike as early as October after Warsh's remarks. Any subsequent commentary from FOMC voters — especially those who projected two hikes — will test whether June's dot plot was a ceiling or a floor. Warsh's new task forces may also reshape how the Fed communicates, even if policy itself moves slowly.
 
-**3. Oil, the Strait of Hormuz, and the U.S.–Iran agreement timeline.** Reuters reported a deal signing was expected around June 20, 2026, with traders debating how quickly Iranian barrels return. If supply normalizes faster than the Fed's energy-shock assumptions, the disinflation case gains ground. If geopolitics re-escalate, the hawkish inflation forecast looks more durable — and rate-sensitive stocks stay under pressure.
+**3. Oil and the U.S.–Iran agreement timeline.** Reuters reported a deal signing was expected around June 20, 2026. Faster supply normalization supports the disinflation case; re-escalation keeps the hawkish Fed forecast intact.
 
 ---
 
